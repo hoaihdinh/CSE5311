@@ -25,3 +25,6 @@
 [submodule "CSE5311-Hands-On-12"]
 	path = CSE5311-Hands-On-12
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-12.git
+[submodule "CSE5311-Hands-On-14"]
+	path = CSE5311-Hands-On-14
+	url = git@github.com:hoaihdinh/CSE5311-Hands-On-14.git
