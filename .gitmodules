@@ -42,3 +42,7 @@
 	path = CSE5311-Hands-On-15
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-15.git
 	branch = main
+[submodule "CSE5311-Disjoint-Sets"]
+	path = CSE5311-Disjoint-Sets
+	url = git@github.com:hoaihdinh/CSE5311-Disjoint-Sets.git
+	branch = main
