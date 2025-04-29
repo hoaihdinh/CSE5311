@@ -1,33 +1,44 @@
 [submodule "CSE5311-Hands-On-2"]
 	path = CSE5311-Hands-On-2
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-2.git
+	branch = main
 [submodule "CSE5311-Hands-On-3"]
 	path = CSE5311-Hands-On-3
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-3.git
+	branch = main
 [submodule "CSE5311-Hands-On-4"]
 	path = CSE5311-Hands-On-4
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-4.git
+	branch = main
 [submodule "CSE5311-Hands-On-5"]
 	path = CSE5311-Hands-On-5
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-5.git
+	branch = main
 [submodule "CSE5311-Hands-On-6"]
 	path = CSE5311-Hands-On-6
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-6.git
+	branch = main
 [submodule "CSE5311-Hands-On-8"]
 	path = CSE5311-Hands-On-8
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-8.git
+	branch = main
 [submodule "CSE5311-Hands-On-10"]
 	path = CSE5311-Hands-On-10
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-10.git
+	branch = main
 [submodule "CSE5311-Hands-On-11"]
 	path = CSE5311-Hands-On-11
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-11.git
+	branch = main
 [submodule "CSE5311-Hands-On-12"]
 	path = CSE5311-Hands-On-12
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-12.git
+	branch = main
 [submodule "CSE5311-Hands-On-14"]
 	path = CSE5311-Hands-On-14
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-14.git
+	branch = main
 [submodule "CSE5311-Hands-On-15"]
 	path = CSE5311-Hands-On-15
 	url = git@github.com:hoaihdinh/CSE5311-Hands-On-15.git
+	branch = main
